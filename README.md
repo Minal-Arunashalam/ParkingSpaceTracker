@@ -3,3 +3,5 @@ A computer vision program (OpenCV) that takes in aerial video of a parking lot a
 
 
 Built with: Python, NumPy, OpenCV
+
+![Screenshot](parkingspacetracker-ss2.png)
